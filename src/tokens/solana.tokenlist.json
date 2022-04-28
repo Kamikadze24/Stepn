@@ -1,0 +1,12 @@
+{
+      "chainId": 101,
+      "address": "52QGLtaGvT17SW3zkdVKGNTTPGRGVN2Cvd7tHP5WYG7s",
+      "symbol": "CTN",
+      "name": "Crypton",
+      "decimals": 8,
+      "logoURI": "https://i.ibb.co/PtwLgQZ/giphy-1.gif",
+      "tags": [
+        "currency"
+      ],
+      "extensions": {
+       }
